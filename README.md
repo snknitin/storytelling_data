@@ -14,6 +14,8 @@ All great stories follow the same structure in 5 stages
 
 Compare this to the data
 
+![alt text](https://github.com/snknitin/storytelling_data/blob/master/story.JPG)
+
 * **Exposition**: Depending on the complexity of the data to be shown this stage could be really fast or it might take several minutes.
     * What is the purpose and origin of the data 
     * How were they collected or processed or analyzed.
