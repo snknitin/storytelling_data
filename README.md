@@ -21,6 +21,18 @@ Compare this to the data
     * What kind of visual representation should be shown like charts or graphs or line plots.
     * What should the audience be looking for.
 
+* **Rising Action**: Here you want to get your audience excited about the data so don't just tell themthe key finding, instead build it up to generate excitement.There are a few different ways that you can do this. Depending on how you are presenting the data and depending on your audience you can just ask them to predict what they think will happen or you can tell them how important and interesting the finding is before telling them the actual results.
+
+* **Climax** :  This is the part where you explain the key finding that is the most important result from the data that your audience should remember.
+
+* **Falling Action** : This is where you provide additional details about the data that are maybe a little bit less exciting but still important enough to discuss. So it's like a preliminary analysis and you need to let your audience know that the results may change with more data
+
+* **Resolution** : The resolution should contain three statements 
+   * Summary of the key results.
+   * Summary of the importance or the implications of those results.
+   * Statement about what courses of action or decisions should be made based on the results. 
+
+This last statement could be a change in business strategy or a policy recommendation or it could simply be an inspiration for additional data to be collected.
 
 
 ## Big picture first, Details as appropriate
