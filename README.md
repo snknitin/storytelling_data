@@ -53,6 +53,22 @@ If anyone has specific questions this lets your audience know that you care abou
 
 
 
+## Audience participation
+
+The importance of audience engagement cannot be understated and it's your job to make sure that the audience is interested and is following along and paying attention. There is one guaranteed method that will make sure your audience is engaged and that is to encourage audience participation. 
+
+* Sometimes this means letting the audience know in the beginning of your presentation that they are free to interrupt with questions or suggestions or discussion points. But if you really want audience participation then you have to stop your presentation and specifically ask if there are comments or questions.
+
+Stopping in the middle of your presentation to ask for audience participation is a high risk high reward endeavor. If it works well and you can pull it off it's an amazing tool to give an unforgettable engaging and interesting presentation asking the audience to participate in your presentation will recapture their attention if they start mind wandering or thinking about something else or just become disengaged from the presentation. It's perfectly natural. Everyone disengages from a presentation. Everyone has mind wandering experiences because it's a natural part of giving a presentation rather than trying to fight against it or ignore you can try to work with it by asking your audience to participate in your presentation. The reason why audience participation can work so well is that it can build conflict and suspense during the rising action stage.
+
+Imagine for example that you ask the audience to guess what results they think you are going to show. You might get different answers or maybe some additional questions and someone might guess it right and someone else might get it wrong and then everyone in the audience is going to want to know who is right and who is wrong and therefore everyone in the audience is all of a sudden going to be paying attention. 
+
+* In this situation you have to be careful not to insult or make fun of the person who guessed wrong. The best way to deal with it is to tell them they had good reasoning and it was a good guess. Maybe you also thought exactly what they thought and you were as surprised as they are to have learned that the data show the opposite pattern.
+
+* On the other hand if you have an audience that is shy or quiet or otherwise not participating then it can be a little bit uncomfortable to wait for audience participation. One way to deal with this situation where you are encouraging and asking for participation but you're not getting it is to change the instructions and tell them that everyone should make a guess in their mind but not say it out loud. 
+
+* Another important consideration for audience participation is that it can add to the total presentation time. If you have many people who want to offer their opinion or ask a question then on the one hand it's a good sign. It means that the audience is engaged in your presentation but on the other hand if you have some talkative people in the audience they might go on and on and on and take time away from your presentation and you don't want to be rude and interrupt someone while they are participating. After you told them that they should participate so audience participation is not always appropriate and is not always possible. It can be a powerful tool for engaging your audience but it could also backfire. This might be something you want to try only in more informal settings or perhaps after you have gained more experience with storytelling with data and you feel more comfortable about changing the presentation on the fly based on how things are going with the audience. 
+
 ## Big picture first, Details as appropriate
 
 As soon as you show a graph, remind the audience of 
