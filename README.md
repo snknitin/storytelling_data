@@ -75,7 +75,21 @@ Imagine for example that you ask the audience to guess what results they think y
 
 If you cannot spend at least a few minutes thinking about and making the graph look nice then the message you are sending to your audience is that you've rushed through making the visualization and you paid no attention to details or how the information will be seen and interpreted by your audience.
 
-In contrast if the data graphic looks really beautiful but doesn't convey any information or makes it really difficult to extract the information then the message that you are sending is that you are hiding the data or you're embarrassed by the data or that you are so focused by the visual appearance that you don't care about what the data actually show.
+In contrast if the data graphic looks really beautiful but doesn't convey any information or makes it really difficult to extract the information then the message that you are sending is that you are hiding the data or you're embarrassed by the data or that you are so focused by the visual appearance that you don't care about what the data actually show.Or maybe the audience will think that you have no idea what the data mean and you're just trying to distract them with pretty pictures.
+
+Keep in mind that the purpose of data visualization is to convey information.Ideally the visualization should also be beautiful it should be aesthetic and nice to look at but the aesthetic quality is of secondary importance to the information content.
+
+## Plots
+
+* First up is line plots **line plots are often used to show how something changes over time or over space or across different groups.**
+The main thing to keep in mind about line plots is that you are making an assumption with line plots that you know what the values would be at the data points between the time points that you have actually measured. So for example in a line plot each of the points here corresponds to an actual measured data point. And the lines are just drawn between them. Now by drawing these lines you are making the assumption that for example the data value at this point here corresponds to this y axis value. But this is really just a guess. If you don't actually have any measured data at this point sometimes line plots are used when they shouldn't be.
+
+   * For Example : a plot showing the number of people with a certain name in some class. Now there's nothing wrong with these boxes per se, those are fine but the lines drawn in between them are in this case a little bit awkward because you're making an assumption that if you would measure in between Mohammad and Mary you would get six individuals a count of six. But that doesn't make any sense because these different names are discrete. There's no smooth transition between John and Mohammed for example.
+
+So make sure that when you're using line plots it is reasonable to assume that there could be data in between these two points. Even if you haven't measured data there.
+
+* **Bar plots are quite common and they're often clear and easy to read.** The main thing to think about with bar plots or really any kind of plots is to use appropriate access ranges. The point is not to show the bar. The point is to show the differences between the groups of bars. 
+
 
 **Big picture first, Details as appropriate**
 
