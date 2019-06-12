@@ -91,6 +91,11 @@ So make sure that when you're using line plots it is reasonable to assume that t
 * **Bar plots are quite common and they're often clear and easy to read.** The main thing to think about with bar plots or really any kind of plots is to use appropriate access ranges. The point is not to show the bar. The point is to show the differences between the groups of bars. 
 
 
+* **Dot plots or often called Scatter plots are used to show a relationship between two variables**. Those two variables should have a lot of values and there should be a meaningful relationship across the different values.
+
+* **Pie charts are used to indicate proportions or fractions of a whole**. Pie charts only really make sense if you're displaying something that sums up to 100 percent or when it makes sense to sum it up to a total and that's because when people look at a pie chart they interpret it as a kind of zero sum game in which more of one category necessarily means less of some other number of categories.
+
+
 **Big picture first, Details as appropriate**
 
 As soon as you show a graph, remind the audience of 
