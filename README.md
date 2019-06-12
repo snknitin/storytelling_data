@@ -69,7 +69,15 @@ Imagine for example that you ask the audience to guess what results they think y
 
 * Another important consideration for audience participation is that it can add to the total presentation time. If you have many people who want to offer their opinion or ask a question then on the one hand it's a good sign. It means that the audience is engaged in your presentation but on the other hand if you have some talkative people in the audience they might go on and on and on and take time away from your presentation and you don't want to be rude and interrupt someone while they are participating. After you told them that they should participate so audience participation is not always appropriate and is not always possible. It can be a powerful tool for engaging your audience but it could also backfire. This might be something you want to try only in more informal settings or perhaps after you have gained more experience with storytelling with data and you feel more comfortable about changing the presentation on the fly based on how things are going with the audience. 
 
-## Big picture first, Details as appropriate
+
+
+## Making Visual Graphics
+
+If you cannot spend at least a few minutes thinking about and making the graph look nice then the message you are sending to your audience is that you've rushed through making the visualization and you paid no attention to details or how the information will be seen and interpreted by your audience.
+
+In contrast if the data graphic looks really beautiful but doesn't convey any information or makes it really difficult to extract the information then the message that you are sending is that you are hiding the data or you're embarrassed by the data or that you are so focused by the visual appearance that you don't care about what the data actually show.
+
+**Big picture first, Details as appropriate**
 
 As soon as you show a graph, remind the audience of 
 * The main purpose of the data
